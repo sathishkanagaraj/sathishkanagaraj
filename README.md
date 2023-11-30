@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sathishkanagaraj
-- 👀 I’m interested in programming in Java, python, NodeJs and writing microservices.
-- 🌱 I’m currently learning AWS Cloud Foundation and targeting certification this year.
+- 👀 I’m interested in programming in Java, python, NodeJs and writing spring-boot microservices with spring cloud.
+- 🌱 Fond of Cloud Architecture especially AWS,Azure,GCP.
 - 💞️ I’m looking to collaborate on opensource projects.
 - 📫 You can reach me @sathishkraj@gmail.com
 
